@@ -1,10 +1,10 @@
 {
-  "versiyon": "1.2.8",
-  "notlar": "Dns koruması eklendi",
+  "versiyon": "1.2.9",
+  "notlar": "hata duzeltmeleri",
   "dosyalar": [
     {
       "ad": "CashOtomasyon.exe",
-      "url": "https://github.com/Drondy/cash-releases/releases/download/v1.2.8/CashOtomasyon.exe"
+      "url": "https://github.com/Drondy/cash-releases/releases/download/v1.2.9/CashOtomasyon.exe"
     }
   ]
 }
