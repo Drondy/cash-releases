@@ -1,10 +1,10 @@
 {
-  "versiyon": "1.3.0",
-  "notlar": "Siteden cash cekme eklendi fakat henuz kullanımda degil",
+  "versiyon": "1.4.0",
+  "notlar": "hata acıklamaları",
   "dosyalar": [
     {
       "ad": "CashOtomasyon.exe",
-      "url": "https://github.com/Drondy/cash-releases/releases/download/v1.3.0/CashOtomasyon.exe"
+      "url": "https://github.com/Drondy/cash-releases/releases/download/v1.4.0/CashOtomasyon.exe"
     }
   ]
 }
