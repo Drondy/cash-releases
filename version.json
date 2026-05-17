@@ -1,10 +1,10 @@
 {
-  "versiyon": "1.8.0",
-  "notlar": "Hatalar duzeltildi",
+  "versiyon": "1.9.0",
+  "notlar": "hata duzeltmeleri",
   "dosyalar": [
     {
       "ad": "CashOtomasyon.exe",
-      "url": "https://github.com/Drondy/cash-releases/releases/download/v1.8.0/CashOtomasyon.exe"
+      "url": "https://github.com/Drondy/cash-releases/releases/download/v1.9.0/CashOtomasyon.exe"
     }
   ]
 }
