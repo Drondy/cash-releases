@@ -1,10 +1,10 @@
 {
-  "versiyon": "1.9.1",
-  "notlar": "temizle butonu sadece tamamlanmıs hesaplari temizliyor",
+  "versiyon": "1.9.2",
+  "notlar": "Siteden oto kod çek geliştirildi",
   "dosyalar": [
     {
       "ad": "CashOtomasyon.exe",
-      "url": "https://github.com/Drondy/cash-releases/releases/download/v1.9.1/CashOtomasyon.exe"
+      "url": "https://github.com/Drondy/cash-releases/releases/download/v1.9.2/CashOtomasyon.exe"
     }
   ]
 }
