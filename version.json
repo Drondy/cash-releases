@@ -1,10 +1,10 @@
 {
-  "versiyon": "2.0.0",
-  "notlar": "genie ve pre sayac eklendi",
+  "versiyon": "2.1.1",
+  "notlar": "asd",
   "dosyalar": [
     {
       "ad": "CashOtomasyon.exe",
-      "url": "https://github.com/Drondy/cash-releases/releases/download/v2.0.0/CashOtomasyon.exe"
+      "url": "https://github.com/Drondy/cash-releases/releases/download/v2.1.1/CashOtomasyon.exe"
     }
   ]
 }
