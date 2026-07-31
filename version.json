@@ -1,10 +1,10 @@
 {
-  "versiyon": "3.3.0",
-  "notlar": "guncel",
+  "versiyon": "3.3.1",
+  "notlar": "asd",
   "dosyalar": [
     {
       "ad": "CashOtomasyon.exe",
-      "url": "https://github.com/Drondy/cash-releases/releases/download/v3.3.0/CashOtomasyon.exe"
+      "url": "https://github.com/Drondy/cash-releases/releases/download/v3.3.1/CashOtomasyon.exe"
     }
   ]
 }
